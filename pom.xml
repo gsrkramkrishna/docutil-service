@@ -32,7 +32,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.gsrk.</mainClass>
+							<mainClass>com.gsrk.DocUtilServiceApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
